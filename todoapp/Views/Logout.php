@@ -1,0 +1,1 @@
+<?php Helper::logout(); ?>

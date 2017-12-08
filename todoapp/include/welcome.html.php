@@ -1,0 +1,1 @@
+<p>Ovo je posjet broj: <?php Helper::notification($numVisits); ?></p>
